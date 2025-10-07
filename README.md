@@ -13,7 +13,7 @@ Challenge your friends, test your strategy, and see who wins the battle of logic
 ---
 
 ## 🚀 Live Demo
-🎯 **Play Now:** [Click Here to Play](https://yourusername.github.io/tic-tac-toe/)  
+🎯 **Play Now:** [Click Here to Play and See the code](https://codepen.io/rahulchoudhary2002/pen/EaPWWVz)  
 *(Replace the link with your actual GitHub Pages URL once deployed)*  
 
 ---
@@ -49,4 +49,4 @@ Challenge your friends, test your strategy, and see who wins the battle of logic
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/rahulchoudhary2002/TIC-TAC-TOE-GAME.git
